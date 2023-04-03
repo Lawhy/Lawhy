@@ -10,8 +10,12 @@
 - 🔭 I'm currently developing [DeepOnto](https://github.com/KRR-Oxford/DeepOnto) for Ontology Engineering.
 - 📫 How to reach me: through emails please, I'm happy to help!
 
+</br>
 
-![Yuan He's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Lawhy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+<div align="center">
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Lawhy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</div>
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Lawhy)](https://github.com/Lawhy/github-profile-trophy) -->
 
