@@ -12,10 +12,9 @@
 
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
   
-- 🌱 I’m currently pursing PhD degree in Computer Science at University of Oxford.
-- 🤔 I'm now learning universal hyperbolic embeddings.
-- 🔭 I'm currently developing [DeepOnto](https://github.com/KRR-Oxford/DeepOnto) for Ontology Engineering.
-- 📫 How to reach me: through emails please, I'm happy to help!
+<p align="center"> :mortar_board: I’m pursing PhD in Computer Science at University of Oxford. </p>
+<p align="center"> :construction_worker: I'm currently developing <a href="https://github.com/KRR-Oxford/DeepOnto">DeepOnto</a> for Ontology Engineering. </p>
+<p align="center"> :house: See my <a href="https://www.yuanhe.wiki/">homepage</a> for more details about me.</p>
 
 </br>
 
