@@ -11,14 +11,11 @@
 </p>
 
 <p align="center">
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Lawhy/Lawhy/main/ai-artificial-intelligence.gif" height="auto" />
 </p>
 
-<br/>
-
-<p align="center">
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-</p>
+<!-- <br/> -->
   
 <p align="center"> :mortar_board: I’m pursing PhD in Computer Science at University of Oxford. </p>
 <p align="center"> :construction_worker: I'm currently developing <a href="https://github.com/KRR-Oxford/DeepOnto">DeepOnto</a> for Ontology Engineering. </p>
