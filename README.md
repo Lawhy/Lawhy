@@ -5,13 +5,20 @@
 </p> -->
 
 <p align="center">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Lawhy/Lawhy/main/ai-artificial-intelligence.gif" height="auto" />
+</p>
+
+<p align="center">
 <a href="https://github.com/Lawhy">
     <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&color=abcdef&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yuan+He+(何源);PhD+Student+%7C+Computer+Science+%7C+@Oxford" alt="Typing SVG" />
 </a>
+</p>
 
 <br/>
 
+<p align="center">
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+</p>
   
 <p align="center"> :mortar_board: I’m pursing PhD in Computer Science at University of Oxford. </p>
 <p align="center"> :construction_worker: I'm currently developing <a href="https://github.com/KRR-Oxford/DeepOnto">DeepOnto</a> for Ontology Engineering. </p>
@@ -27,7 +34,3 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Lawhy)](https://github.com/Lawhy/github-profile-trophy) -->
 
 <br/>
-
-<p align="center">
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Lawhy/Lawhy/main/code-purpose-of-life.gif" height="auto" />
-</p>
