@@ -8,6 +8,7 @@
 <a href="https://github.com/Lawhy">
     <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&color=abcdef&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yuan+He+(何源);PhD+Student+%7C+Computer+Science+%7C+@Oxford" alt="Typing SVG" />
 </a>
+
 <br/>
 
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
@@ -25,3 +26,8 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Lawhy)](https://github.com/Lawhy/github-profile-trophy) -->
 
+<br/>
+
+<p align="center">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Lawhy/Lawhy/main/code-purpose-of-life.gif" height="auto" />
+</p>
