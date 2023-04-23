@@ -4,14 +4,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=My+name+is+Yuan+He+(何源)!;I'm+a+PhD+Student+in+CS+@+Oxford" /></a>
 </p> -->
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Lawhy">
     <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&color=abcdef&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yuan+He+(何源);PhD+Student+%7C+Computer+Science+%7C+@Oxford" alt="Typing SVG" />
 </a>
 </p>
 
 <p align="center">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Lawhy/Lawhy/main/ai-artificial-intelligence.gif" height="auto" />
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/Lawhy/Lawhy/main/ai-artificial-intelligence.gif" height="auto" />
 </p>
 
 <br/>
